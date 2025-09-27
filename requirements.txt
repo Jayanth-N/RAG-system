@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+fastapi
+uvicorn
+pydantic-settings
+cryptography>=3.1
